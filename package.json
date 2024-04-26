@@ -1,12 +1,9 @@
 {
-  "name": "@areesha-iqbal/student_management_system",
-  "version": "1.0.0",
+  "name": "areesha-iqbal-student_management_system",
+  "version": "1.0.1",
   "description": "This project is simple console based Student Management System.",
   "main": "index.js",
   "type": "module",
-  "publishConfig": {
-    "access": "public"
-  },
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
